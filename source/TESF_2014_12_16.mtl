@@ -1,0 +1,277 @@
+# Blender MTL File: 'TESF_mod.blend'
+# Material Count: 28
+
+newmtl FrontColor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl M_01_Nau
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.232157 0.232157 0.229020
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_01_Nau.jpg
+
+newmtl M_02_Central
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.423530 0.464314
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_02_Central.jpg
+
+newmtl M_03_BaseCreuer
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.367059 0.351373 0.316862
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_03_BaseCreuer.jpg
+
+newmtl M_04_AltTorre
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.414118 0.345098
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_04_AltTorre.jpg
+
+newmtl M_05_Absis1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.269804 0.232157 0.181961
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_05_Absis1.jpg
+
+newmtl M_06_Absis2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.241569 0.191373
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_06_Absis2.jpg
+
+newmtl M_07_Absis3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.254118 0.219608 0.172549
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_07_Absis3.jpg
+
+newmtl M_08_Campanar
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.373334 0.316862 0.244706
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_08_Campanar.jpg
+
+newmtl M_09_BasePinacle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.536470 0.470588 0.401569
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_09_BasePinacle.jpg
+
+newmtl M_10_Ap_stols
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.693334 0.643138 0.608627
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_10_Ap_stols.png
+
+newmtl M_11_Evengelista
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.740392 0.712157 0.693334
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_11_Evengelista.png
+
+newmtl M_12_Claustre1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.382745 0.354510 0.294902
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_12_Claustre1.jpg
+
+newmtl M_13_Pedra
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.492549 0.429804 0.313726
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_13_Pedra.jpg
+
+newmtl M_14_llanterna
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.395294 0.360784 0.313726
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_14_llanterna.jpg
+
+newmtl M_15_PortesGl_ria
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.122353 0.109804 0.087843
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_15_PortesGl_ria.jpg
+
+newmtl M_16_ColumnesGl_ria
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.410980 0.323138
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_16_ColumnesGl_ria.jpg
+
+newmtl M_17_N_vols
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.605490 0.561569 0.467451
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_17_N_vols.jpg
+
+newmtl M_18_Passi_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.370196 0.332549 0.272941
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_18_Passi_.jpg
+
+newmtl M_19_ColPassi_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.473726 0.379608
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_19_ColPassi_.jpg
+
+newmtl M_20_Naixement
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.379608 0.313726
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_20_Naixement.jpg
+
+newmtl M_21_escales
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.351373 0.351373 0.320000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\M_21_escales.jpg
+
+newmtl _DarkKhaki_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.385882 0.279216
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl _GAF_Country_Estates_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.379608 0.382745 0.341961
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\_GAF_Country_Estates_.jpg
+
+newmtl _Gold_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.661961 0.630588 0.219608
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl _MediumTurquoise_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.533334 0.574118
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl _Plant_Cover_Kudzu_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.254118 0.373334 0.153726
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Design\Desktop\TESF\_Plant_Cover_Kudzu_.jpg
+
+newmtl _Silver_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.574118 0.564706 0.501961
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,272 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		071D00701A35FF4B00EE5172 /* MaterialsProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071D006F1A35FF4B00EE5172 /* MaterialsProcessor.swift */; };
+		075D7B071A2DEE740008F9D6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075D7B061A2DEE740008F9D6 /* main.swift */; };
+		075D7B0E1A2DF7E10008F9D6 /* StreamReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075D7B0D1A2DF7E10008F9D6 /* StreamReader.swift */; };
+		079A79121A2F98AD003515BF /* GeometryProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079A79111A2F98AD003515BF /* GeometryProcessor.swift */; };
+		07BFEB0A1A40B51C004EB7FB /* Material.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BFEB091A40B51C004EB7FB /* Material.swift */; };
+		07BFEB0C1A40B560004EB7FB /* Geometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BFEB0B1A40B560004EB7FB /* Geometry.swift */; };
+		07BFEB0E1A40B6AB004EB7FB /* Writer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BFEB0D1A40B6AB004EB7FB /* Writer.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		075D7B011A2DEE740008F9D6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		071D006F1A35FF4B00EE5172 /* MaterialsProcessor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialsProcessor.swift; sourceTree = "<group>"; };
+		075D7B031A2DEE740008F9D6 /* Obj2OpenGLES-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Obj2OpenGLES-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
+		075D7B061A2DEE740008F9D6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		075D7B0D1A2DF7E10008F9D6 /* StreamReader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StreamReader.swift; sourceTree = "<group>"; };
+		079A79111A2F98AD003515BF /* GeometryProcessor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeometryProcessor.swift; sourceTree = "<group>"; };
+		07BFEB091A40B51C004EB7FB /* Material.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Material.swift; sourceTree = "<group>"; };
+		07BFEB0B1A40B560004EB7FB /* Geometry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Geometry.swift; sourceTree = "<group>"; };
+		07BFEB0D1A40B6AB004EB7FB /* Writer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Writer.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		075D7B001A2DEE740008F9D6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		075D7AFA1A2DEE740008F9D6 = {
+			isa = PBXGroup;
+			children = (
+				075D7B051A2DEE740008F9D6 /* Obj2OpenGLES-Swift */,
+				075D7B041A2DEE740008F9D6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		075D7B041A2DEE740008F9D6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				075D7B031A2DEE740008F9D6 /* Obj2OpenGLES-Swift */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		075D7B051A2DEE740008F9D6 /* Obj2OpenGLES-Swift */ = {
+			isa = PBXGroup;
+			children = (
+				07BFEB0B1A40B560004EB7FB /* Geometry.swift */,
+				079A79111A2F98AD003515BF /* GeometryProcessor.swift */,
+				075D7B061A2DEE740008F9D6 /* main.swift */,
+				07BFEB091A40B51C004EB7FB /* Material.swift */,
+				071D006F1A35FF4B00EE5172 /* MaterialsProcessor.swift */,
+				075D7B0D1A2DF7E10008F9D6 /* StreamReader.swift */,
+				07BFEB0D1A40B6AB004EB7FB /* Writer.swift */,
+			);
+			path = "Obj2OpenGLES-Swift";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		075D7B021A2DEE740008F9D6 /* Obj2OpenGLES-Swift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 075D7B0A1A2DEE740008F9D6 /* Build configuration list for PBXNativeTarget "Obj2OpenGLES-Swift" */;
+			buildPhases = (
+				075D7AFF1A2DEE740008F9D6 /* Sources */,
+				075D7B001A2DEE740008F9D6 /* Frameworks */,
+				075D7B011A2DEE740008F9D6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Obj2OpenGLES-Swift";
+			productName = "Obj2OpenGLES-Swift";
+			productReference = 075D7B031A2DEE740008F9D6 /* Obj2OpenGLES-Swift */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		075D7AFB1A2DEE740008F9D6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = d3gs;
+				TargetAttributes = {
+					075D7B021A2DEE740008F9D6 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+				};
+			};
+			buildConfigurationList = 075D7AFE1A2DEE740008F9D6 /* Build configuration list for PBXProject "Obj2OpenGLES-Swift" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 075D7AFA1A2DEE740008F9D6;
+			productRefGroup = 075D7B041A2DEE740008F9D6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				075D7B021A2DEE740008F9D6 /* Obj2OpenGLES-Swift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		075D7AFF1A2DEE740008F9D6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BFEB0A1A40B51C004EB7FB /* Material.swift in Sources */,
+				07BFEB0E1A40B6AB004EB7FB /* Writer.swift in Sources */,
+				07BFEB0C1A40B560004EB7FB /* Geometry.swift in Sources */,
+				079A79121A2F98AD003515BF /* GeometryProcessor.swift in Sources */,
+				075D7B0E1A2DF7E10008F9D6 /* StreamReader.swift in Sources */,
+				071D00701A35FF4B00EE5172 /* MaterialsProcessor.swift in Sources */,
+				075D7B071A2DEE740008F9D6 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		075D7B081A2DEE740008F9D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		075D7B091A2DEE740008F9D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		075D7B0B1A2DEE740008F9D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		075D7B0C1A2DEE740008F9D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		075D7AFE1A2DEE740008F9D6 /* Build configuration list for PBXProject "Obj2OpenGLES-Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				075D7B081A2DEE740008F9D6 /* Debug */,
+				075D7B091A2DEE740008F9D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		075D7B0A1A2DEE740008F9D6 /* Build configuration list for PBXNativeTarget "Obj2OpenGLES-Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				075D7B0B1A2DEE740008F9D6 /* Debug */,
+				075D7B0C1A2DEE740008F9D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 075D7AFB1A2DEE740008F9D6 /* Project object */;
+}
